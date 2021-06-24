@@ -1,0 +1,7 @@
+numpy
+opencv-python
+PySimpleGUI 
+pandas
+pyodbc
+sqlalchemy
+psycopg2
