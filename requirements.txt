@@ -5,3 +5,6 @@ pandas
 pyodbc
 sqlalchemy
 psycopg2
+tk
+Pillow
+imutils
